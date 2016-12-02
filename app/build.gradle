@@ -26,4 +26,9 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:24.2.1'
     testCompile 'junit:junit:4.12'
+    compile 'com.github.ctiao:DanmakuFlameMaster:0.6.0'
+    compile 'com.github.ctiao:ndkbitmap-armv7a:0.6.0'
+    compile 'com.nostra13.universalimageloader:universal-image-loader:1.9.5'
+//    compile 'tv.danmaku.ijk.media:ijkplayer-arm64:0.6.2'
+
 }
